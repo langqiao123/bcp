@@ -1,0 +1,10 @@
+com\pptv\entity\BcpResource.class
+com\pptv\util\Page.class
+com\pptv\util\Rule.class
+com\pptv\util\HttpUtil.class
+com\pptv\util\Const.class
+com\pptv\util\DynamicSqlParameter.class
+com\pptv\entity\Book.class
+com\pptv\util\CallResult.class
+com\pptv\entity\User.class
+com\pptv\util\DBFieldFmtUtil.class
